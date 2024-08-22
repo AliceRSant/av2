@@ -27,6 +27,7 @@ const perguntas = [
             }
         ],
         imagem: "walden.jpg"
+        imagem: "moby-dick.jpg"
     
     },
     {
