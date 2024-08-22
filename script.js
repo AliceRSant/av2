@@ -5,14 +5,13 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "Prepare-se para descobrir curiosidades fascinantes e testar seu conhecimento sobre esses seres maravilhosos que coloram nossos céus e trilhas. Que comecem as perguntas, e que você se divirta explorando o universo dos pássaros!",
-        alternativas: [
+        enunciado: "Prepare-se para testar seu conhecimento sobre livros em geral. Que os jogos comecem... e que a sorte esteja sempre em seu favor.
             {
-                texto: "Começar ♡︎",
+                texto: "Começar ☺︎",
                 afirmacao: "Você marcou:",
             }
         ],
-        imagem: "https://i.pinimg.com/474x/88/18/90/88189085f93fe875c7a734a61942d037.jpg"
+        imagem: "capa.png"
     },
     {
         enunciado: "Qual é o pássaro que pode imitar mais sons de outros animais e objetos? 𓅪♪♫ ",
