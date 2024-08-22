@@ -38,7 +38,7 @@ const perguntas = [
                 afirmacao: "",
             }
         ],
-        imagem: "https://i.pinimg.com/474x/7d/2a/01/7d2a0114aa81c03c40985cb87ea7cc60.jpg" 
+        imagem: "walden.jpg" 
     },
     {
         enunciado: "Qual é o único pássaro que pode voar para trás? 𓅯➪",
