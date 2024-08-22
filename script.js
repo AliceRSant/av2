@@ -41,28 +41,28 @@ const perguntas = [
         imagem: "walden.jpg" 
     },
     {
-        enunciado: "Qual é o único pássaro que pode voar para trás? 𓅯➪",
+        enunciado: "Toda revolução começa com uma faísca.",
         alternativas: [
             {
-                texto: "Martim-Pescador",
-                afirmacao: "Martim-Pescador,",
+                texto: "Maze Runner",
+                afirmacao: "Maze Runner,",
             },
             {
-                texto: "Beija-Flor",
-                afirmacao: "Beija-Flor,",
+                texto: "Jogos Vorazes",
+                afirmacao: "Jogos Vorazes,",
             }
         ],
-        imagem: "https://i.pinimg.com/736x/30/9e/9e/309e9e0cb5b0415f498bce6257082cc7.jpg"
+    
     },
     {
-        enunciado: "a resposta certa é Beija-Flor! :)",
+        enunciado: "a resposta certa é Jogos Vorazes! :)",
         alternativas: [
             {
                 texto: "Próximo ♡︎",
                 afirmacao: "",
             }
         ],
-        imagem: "https://i.pinimg.com/474x/13/86/a7/1386a7f48513f53ceb189c720bea62a0.jpg" 
+        imagem: "thg.jpg" 
     },
     {
         enunciado: "Qual pássaro tem a capacidade de mudar a cor das penas para se camuflar com o ambiente ao longo das estações do ano? ⛭❆☃︎❀ ",
