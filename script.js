@@ -183,7 +183,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Se suas respostas foram: Corvo, Beija-flor, Corvo-Marinho, Condor-Andino e Coruja, parabéns! Você acertou tudo ☺︎";
+    caixaPerguntas.textContent = "Se suas respostas foram: Walden, Jogos Vorazes, Alice no País das Maravilhas, Crepúsculo e O Cemitério, parabéns! Você acertou tudo ☺︎";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
