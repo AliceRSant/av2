@@ -5,8 +5,9 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "Prepare-se para testar seu conhecimento sobre livros em geral. Que os jogos comecem... e que a sorte esteja sempre em seu favor.
-            {
+        enunciado: "Prepare-se para testar seu conhecimento sobre livros em geral. Que os jogos comecem... e que a sorte esteja sempre em seu favor.",
+        alternativas: [
+        {
                 texto: "Começar ☺︎",
                 afirmacao: "Você marcou:",
             }
