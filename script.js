@@ -26,8 +26,8 @@ const perguntas = [
                 afirmacao: "Moby Dick,",
             }
         ],
-        imagem: "walden.jpg"
-        imagem: "moby-dick.jpg"
+        
+        
     
     },
     {
