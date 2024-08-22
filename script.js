@@ -27,7 +27,7 @@ const perguntas = [
             }
         ],
         imagem: "walden.jpg"
-        imagem: "moby-dck.jpg"
+    
     },
     {
         enunciado: "a resposta certa é Corvo! :)",
