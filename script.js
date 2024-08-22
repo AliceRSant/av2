@@ -15,7 +15,7 @@ const perguntas = [
         imagem: "capa.png"
     },
     {
-        enunciado: "Qual é o pássaro que pode imitar mais sons de outros animais e objetos? 𓅪♪♫ ",
+        enunciado: "Fui à floresta porque queria viver deliberadamente; enfrentar apenas os fatos essenciais da vida.",
         alternativas: [
             {
                 texto: "Corvo",
