@@ -18,15 +18,16 @@ const perguntas = [
         enunciado: "Fui à floresta porque queria viver deliberadamente; enfrentar apenas os fatos essenciais da vida.",
         alternativas: [
             {
-                texto: "Corvo",
-                afirmacao: "Corvo,",
+                texto: "Walden",
+                afirmacao: "Walden,",
             },
             {
-                texto: "Papagaio-de-cara-roxa",
-                afirmacao: "Papagaio-de-cara-roxa,",
+                texto: "Moby Dick",
+                afirmacao: "Moby Dick,",
             }
         ],
-        imagem: "https://i.pinimg.com/736x/aa/91/45/aa9145ffc0582c1a1da2d35841dc0226.jpg" 
+        imagem: "walden.jpg"
+        imagem: "moby-dck.jpg"
     },
     {
         enunciado: "a resposta certa é Corvo! :)",
