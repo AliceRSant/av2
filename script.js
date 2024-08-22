@@ -134,7 +134,7 @@ const perguntas = [
                 afirmacao: "",
             }
         ],
-        imagem: "cemitério.jpg" 
+        imagem: "cemiterio.jpg" 
     },
 ];
 
