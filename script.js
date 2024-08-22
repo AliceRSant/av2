@@ -58,7 +58,7 @@ const perguntas = [
         enunciado: "a resposta certa é Jogos Vorazes, de Suzanne Collins! :)",
         alternativas: [
             {
-                texto: "Próximo ♡︎",
+                texto: "Próximo ☺︎",
                 afirmacao: "",
             }
         ],
@@ -82,59 +82,59 @@ const perguntas = [
         enunciado: "a resposta Alice no País das Maravilhas, de Lewis Caroll! :)",
         alternativas: [
             {
-                texto: "Próximo ♡︎",
+                texto: "Próximo ☺︎",
                 afirmacao: "",
             }
         ],
         imagem: "alice.jpg"
     },
     {
-        enunciado: "Qual é o pássaro que pode voar a uma altitude superior a 8.000 metros, quase na estratosfera? ⚝✩𓅮",
+        enunciado: "Eu pensei que já havia explicado isso claramente antes. Eu não posso existir num mundo onde você não exista.",
         alternativas: [
             {
-                texto: "Condor-andino",
-                afirmacao: "Condor-Andino,",
+                texto: "Crepúsculo",
+                afirmacao: "Crepúsculo,",
             },
             {
-                texto: "Falcão-peregrino",
-                afirmacao: "Falcão-Peregrino,",
+                texto: "Romeu e Julieta",
+                afirmacao: "Romeu e Julieta,",
             }
         ],
-        imagem: "https://i.pinimg.com/736x/86/e6/d1/86e6d14e3cac87cb538281990edcd28a.jpg" 
+        
     },
     {
-        enunciado: "a resposta certa é Condor-Andino! :)",
+        enunciado: "a resposta certa é Crepúsculo, de Stephenie Meyer! :)",
         alternativas: [
             {
-                texto: "Próximo ♡︎",
+                texto: "Próximo ☺︎",
                 afirmacao: "",
             }
         ],
-        imagem: "https://i.pinimg.com/474x/5d/1c/76/5d1c764f5f79272976ffd81a4c2e4730.jpg" 
+        imagem: "crepusculo.jpg" 
     },
     {
-        enunciado: "Qual pássaro tem a habilidade de dormir com um olho aberto e metade do cérebro ativo para se proteger de predadores? ರಠ",
+        enunciado: "Você arranjou a coisa, ela é sua, e mais cedo ou mais tarde acaba voltando às suas mãos.",
         alternativas: [
             {
-                texto: "Pato",
-                afirmacao: "e Pato",
+                texto: "Frankstein",
+                afirmacao: "Frankstein,",
             },
             {
-                texto: "Coruja",
-                afirmacao: "e Coruja",
+                texto: "O Cemitério",
+                afirmacao: "e O Cemitério",
             }
         ],
-        imagem: "https://i.pinimg.com/736x/56/c1/71/56c171496a435c168f27fccd174583bd.jpg" 
+        
     },
     {
-        enunciado: "a resposta certa é Coruja! :)",
+        enunciado: "a resposta certa é O Cemitério, de Stephen King! :)",
         alternativas: [
             {
-                texto: "Terminei ♡︎",
+                texto: "Terminei ☺︎",
                 afirmacao: "",
             }
         ],
-        imagem: "https://i.pinimg.com/474x/cc/0f/5b/cc0f5bab0f655342516aa8835d374f0e.jpg" 
+        imagem: "cemitério.jpg" 
     },
 ];
 
@@ -183,7 +183,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Se suas respostas foram: Corvo, Beija-flor, Corvo-Marinho, Condor-Andino e Coruja, parabéns! Você acertou tudo ♡︎♡︎♡︎";
+    caixaPerguntas.textContent = "Se suas respostas foram: Corvo, Beija-flor, Corvo-Marinho, Condor-Andino e Coruja, parabéns! Você acertou tudo ☺︎";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
