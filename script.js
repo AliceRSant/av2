@@ -30,10 +30,10 @@ const perguntas = [
     
     },
     {
-        enunciado: "a resposta certa é Corvo! :)",
+        enunciado: "a resposta certa é Walden, de H. D. Thoreau! :)",
         alternativas: [
             {
-                texto: "Próximo ♡︎",
+                texto: "Próximo ☺︎",
                 afirmacao: "",
             }
         ],
