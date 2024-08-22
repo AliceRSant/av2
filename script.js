@@ -55,7 +55,7 @@ const perguntas = [
     
     },
     {
-        enunciado: "a resposta certa é Jogos Vorazes! :)",
+        enunciado: "a resposta certa é Jogos Vorazes, de Suzanne Collins! :)",
         alternativas: [
             {
                 texto: "Próximo ♡︎",
@@ -65,28 +65,28 @@ const perguntas = [
         imagem: "thg.jpg" 
     },
     {
-        enunciado: "Qual pássaro tem a capacidade de mudar a cor das penas para se camuflar com o ambiente ao longo das estações do ano? ⛭❆☃︎❀ ",
+        enunciado: "Quando acordei hoje de manhã, eu sabia quem eu era, mas acho que já mudei muitas vezes desde então.",
         alternativas: [
             {
-                texto: "Búho-real",
-                afirmacao: "Búho-Real,",
+                texto: "As Vantagens de Ser Invisível",
+                afirmacao: "As Vantagens de Ser Invisível,",
             },
             {
-                texto: "Corvo-marinho",
-                afirmacao: "Corvo-marinho,",
+                texto: "Alice no País das Maravilhas",
+                afirmacao: "Alice no País das Maravilhas,",
             }
         ],
-        imagem: "https://i.pinimg.com/736x/d9/d0/fa/d9d0fa0a097cfd1be137de308be6868f.jpg" 
+       
     },
     {
-        enunciado: "a resposta certa é Corvo-Marinho! :)",
+        enunciado: "a resposta Alice no País das Maravilhas, de Lewis Caroll! :)",
         alternativas: [
             {
                 texto: "Próximo ♡︎",
                 afirmacao: "",
             }
         ],
-        imagem: "https://i.pinimg.com/474x/c0/6b/3a/c06b3a20f9a2398e3224bd12485b4788.jpg"
+        imagem: "alice.jpg"
     },
     {
         enunciado: "Qual é o pássaro que pode voar a uma altitude superior a 8.000 metros, quase na estratosfera? ⚝✩𓅮",
